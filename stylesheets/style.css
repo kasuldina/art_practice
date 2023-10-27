@@ -1,0 +1,316 @@
+
+
+/* .gerbera_item {
+    display: block;
+    position: relative;
+    width: 1280px;
+    margin: auto;
+    padding: 56px 56px;
+} */
+
+/* .container {
+    position: relative;
+    text-align: center;
+    color: white;
+} */
+
+/* div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+} */
+
+/* .section1 {
+    width: 1280px;
+    display: flex;
+    justify-content: center;
+} */
+
+body {
+    margin: auto;
+    max-width: 1280px;
+  }
+
+h1 {
+    color:#FAFF00;
+    font-family: Gerbera-Bold;
+    font-size: 102px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 114px;
+    text-transform: uppercase;    
+    display: flex;
+    justify-content: center;
+    margin-top: -610px;
+}
+    /* padding: 585px 585px; */
+    /* margin-top: 66px; */
+
+    /* align-items: start;
+    margin: auto; */
+/* } */
+
+h2 {
+    color: #FFF;
+    font-family: Gerbera-Bold;
+    font-size: 134px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    padding-top: 22px;
+}
+
+.magazin {
+    display: block;
+    padding-top: 56px;
+    margin: auto;
+}
+
+
+h3 {
+    color: var(--yellow, #FAFF00);
+    font-family: Gerbera-Black;
+    font-size: 23.529px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 112.2%; /* 26.4px */
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    padding-top: 88px;
+}
+
+h4 {
+    color: var(--black, #161718);
+    font-family: Gerbera-Regular-Italic;
+    font-size: 41.347px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 112.2%; /* 46.391px */
+    text-transform: uppercase;
+    padding-left: 129px;
+    padding-top: 12px;
+}
+
+h5 {
+    color: var(--black, #161718);
+    font-family: Gerbera-Black;
+    font-size: 57.171px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 112.2%; /* 64.146px */
+    text-transform: uppercase;
+    padding-left: 288px;
+    padding-top: 8px;
+}
+
+h6 {
+    color: var(--black, #161718);
+    font-family: Gerbera-Black;
+    font-size: 57.171px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 112.2%; /* 64.146px */
+    text-transform: uppercase;
+    padding-left: 864px;
+    margin-top: -125px;
+}
+
+.sale {
+    color: var(--black, #161718);
+    font-family: Gerbera-Bold;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 96.7%; /* 30.944px */
+    text-transform: lowercase;
+    padding-left: 892px;
+    margin-top: -89px;
+}
+
+.items1 {
+    color: var(--white, #FFF);
+    font-family: Gerbera-Light;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 112.2%; /* 17.952px */
+    text-transform: capitalize;
+    padding-left: 226px;
+    margin-top: 174px;
+}
+
+.items2 {
+    color: var(--white, #FFF);
+    font-family: Gerbera-Light;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 112.2%; /* 17.952px */
+    text-transform: capitalize;
+    padding-left: 860px;
+    margin-top: -18px;
+}
+
+.items3 {
+    color: var(--white, #FFF);
+    font-family: Gerbera-Light;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 112.2%; /* 17.952px */
+    text-transform: capitalize;
+    padding-left: 1030px;
+    margin-top: -18px;
+}
+
+.h1 {
+    color: var(--white, #FFF);
+    font-family: Gerbera-Bold;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 96.7%; /* 61.888px */
+    text-transform: uppercase;
+    padding-top: 131px;
+    padding-left: 56px;
+}
+
+.p {
+    color: var(--white, #FFF);
+    font-family: Gerbera-Light;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 112.2%; /* 31.416px */
+    padding-left: 56px;
+    padding-top: 36px;
+}
+
+.chek {
+    margin-left: 557px;
+    margin-top: -414px;
+}
+
+.phone {
+    margin-left: 745px;
+    margin-top: -812px;
+}
+
+.money {
+    margin-top: -220px;
+    margin-left: 306px;
+}
+
+.p2 {
+    color: var(--white, #FFF);
+    font-family: Gerbera-Light;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 112.2%; /* 31.416px */
+    padding-left: 56px;
+    padding-top: 115px;
+}
+
+.otdel {
+    display: flex;
+    color: var(--black, #161718);
+    font-family: Gerbera-Bold;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 112.2%; /* 29.45px */
+    text-transform: uppercase;
+    margin-top: 41px;
+}
+
+.otdel2 {
+    background-color: #FAFF00;
+    width: 248px;
+    margin-left: 309px;
+    padding-right: 25px;
+    padding-left: 116px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+
+.otdel3 {
+    background-color: #FAFF00;
+    width: 248px;
+    margin-left: 162px;
+    margin-right: 313px;
+    padding-left: 25px;
+    padding-right: 116px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+
+.section3 {
+    width: 1280px;
+}
+
+.box {
+    display:flex;
+    justify-content: center;
+    margin-top: 106px;
+    margin-left: 56px;
+}
+
+.fr1 {
+    display: flex;
+    margin-left: 42px;
+}
+
+.fru {
+    color: var(--white, #FFF);
+    font-family: Gerbera-Light;
+    font-size: 219.011px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 112.2%; /* 245.731px */
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: row;
+    margin: 19px;
+    margin-top: -438px;
+
+}
+
+
+
+/* .logo {
+    width: 1174px;
+    display: flex;
+    justify-content: center;
+    height: 621 px;
+
+} */
+
+/* h2+svg */
+ /* svg{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+} */
+
+/* .svg {
+    display: flex;
+    justify-content: center;
+} */
+    /* margin-top: 56px; */
+    /* padding: 56px 56px; */
+
+    /* section{
+        display: flex;
+        flex-direction: column;
+        align-items: center; */
+        /* padding-top: 60px;
+        padding-bottom: 60px;   */
+    /* } */
+/* 
+
